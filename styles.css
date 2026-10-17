@@ -1,0 +1,17 @@
+.colorLetra{
+    color:red;
+}
+.fondo{
+    background-color: yellow;
+}
+.cursiva{
+    font-style: oblique;
+}
+
+.fallo{
+    background-color: red;
+}
+
+.cumplido{
+    background-color: green;
+}
